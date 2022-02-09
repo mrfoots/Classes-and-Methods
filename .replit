@@ -1,0 +1,2 @@
+entrypoint="rectangle.py"
+run="python rectangle.py"
